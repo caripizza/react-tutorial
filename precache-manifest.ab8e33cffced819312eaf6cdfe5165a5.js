@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9b37f086e6f9086689ed",
-    "url": "/react-tutorial/static/css/main.a2feb44e.chunk.css"
+    "revision": "1f5ed4b962966fddb6a3",
+    "url": "/react-tutorial/static/css/main.6585f3df.chunk.css"
   },
   {
-    "revision": "9b37f086e6f9086689ed",
-    "url": "/react-tutorial/static/js/main.9b37f086.chunk.js"
+    "revision": "1f5ed4b962966fddb6a3",
+    "url": "/react-tutorial/static/js/main.1f5ed4b9.chunk.js"
   },
   {
     "revision": "9b2d15347dbf2dd6be24",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/react-tutorial/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "aa832e216bcd0da16c26efcd07edc15d",
+    "revision": "73662619eaf478b45687ea6bec9f1180",
     "url": "/react-tutorial/index.html"
   }
 ];
