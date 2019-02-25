@@ -59,7 +59,7 @@ class Table extends Component {
         const { characterData, removeCharacter } = this.props;
 
         return (
-            <table>
+            <table style={{ border: '2px solid red', display: 'flex' }}>
                 <TableHeader />
                 <TableBody 
                     characterData={characterData} 
